@@ -7,3 +7,6 @@ C:\Users\Juank\Google Drive\Proy Titulo\Interface\Proyecto biometrico\controlasi
 C:\Users\Juank\Google Drive\Proy Titulo\Interface\Proyecto biometrico\controlasistencia\controlasistencia\obj\Debug\controlasistencia.csproj.GenerateResource.Cache
 C:\Users\Juank\Google Drive\Proy Titulo\Interface\Proyecto biometrico\controlasistencia\controlasistencia\obj\Debug\controlasistencia.exe
 C:\Users\Juank\Google Drive\Proy Titulo\Interface\Proyecto biometrico\controlasistencia\controlasistencia\obj\Debug\controlasistencia.pdb
+C:\Users\Juank\Documents\GitHub\interface\Proyecto biometrico\controlasistencia\controlasistencia\bin\Debug\controlasistencia.exe.config
+C:\Users\Juank\Documents\GitHub\interface\Proyecto biometrico\controlasistencia\controlasistencia\obj\Debug\controlasistencia.exe
+C:\Users\Juank\Documents\GitHub\interface\Proyecto biometrico\controlasistencia\controlasistencia\obj\Debug\controlasistencia.pdb
